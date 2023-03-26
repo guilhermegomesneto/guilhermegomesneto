@@ -10,7 +10,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=guilhermegomesneto&count_private=true&show_icons=true&hide=contribs"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     >
-    <img alt="Guilherme's GitHub Stats" height="187em" align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermegomesneto&count_private=true&show_icons=true&theme=transparent&hide=contribs">
+    <img alt="Guilherme's GitHub Stats" height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermegomesneto&count_private=true&show_icons=true&theme=transparent&hide=contribs">
   </picture>
   
   <picture>
@@ -22,6 +22,6 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegomesneto&layout=compact&langs_count=8"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     >
-    <img alt="Guilherme's Most Used Languages GitHub" height="187em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegomesneto&layout=compact&langs_count=8&theme=transparent">
+    <img alt="Guilherme's Most Used Languages GitHub" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegomesneto&layout=compact&langs_count=8&theme=transparent">
   </picture>
 </div>
