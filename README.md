@@ -3,26 +3,26 @@
 <div>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=guilhermegomesneto&show_icons=true&theme=dark&PAT_1&hide=contribs"
+      srcset="https://github-readme-stats-eta-opal.vercel.app/api?username=guilhermegomesneto&show_icons=true&theme=dark&PAT_1&hide=contribs"
       media="(prefers-color-scheme: dark)"
     >
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=guilhermegomesneto&show_icons=true&PAT_1&hide=contribs"
+      srcset="https://github-readme-stats-eta-opal.vercel.app/api?username=guilhermegomesneto&show_icons=true&PAT_1&hide=contribs"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     >
-    <img alt="Guilherme's GitHub Stats" height="155em" align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermegomesneto&show_icons=true&theme=transparent&PAT_1&hide=contribs"(https://github.com/anuraghazra/github-readme-stats)>
+    <img alt="Guilherme's GitHub Stats" height="155em" align="center" src="https://github-readme-stats-eta-opal.vercel.app/api?username=guilhermegomesneto&show_icons=true&theme=transparent&PAT_1&hide=contribs"(https://github.com/anuraghazra/github-readme-stats)>
   </picture>
   
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegomesneto&layout=compact&langs_count=8&PAT_1&theme=dark"
+      srcset="https://github-readme-stats-eta-opal.vercel.app/api/top-langs/?username=guilhermegomesneto&layout=compact&langs_count=8&PAT_1&theme=dark"
       media="(prefers-color-scheme: dark)"
     >
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegomesneto&layout=compact&langs_count=8&PAT_1"
+      srcset="https://github-readme-stats-eta-opal.vercel.app/api/top-langs/?username=guilhermegomesneto&layout=compact&langs_count=8&PAT_1"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     >
-    <img alt="Guilherme's Most Used Languages GitHub" height="155em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegomesneto&layout=compact&langs_count=8&PAT_1&theme=transparent"(https://github.com/anuraghazra/github-readme-stats)>
+    <img alt="Guilherme's Most Used Languages GitHub" height="155em" align="center" src="https://github-readme-stats-eta-opal.vercel.app/api/top-langs/?username=guilhermegomesneto&layout=compact&langs_count=8&PAT_1&theme=transparent"(https://github.com/anuraghazra/github-readme-stats)>
   </picture>
 </div>
 
